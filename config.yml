@@ -1,0 +1,6 @@
+input:
+  - path: /Users/ishikura//dev/sandbox/java/vscode-example
+    encoding: sjis
+output:
+  path: output
+  encoding: utf8
